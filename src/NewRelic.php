@@ -78,4 +78,8 @@ if (!extension_loaded('newrelic')) {
     {
     }
 
+    function newrelic_set_user_id()
+    {
+    }
+
 }
