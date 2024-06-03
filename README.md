@@ -1,4 +1,6 @@
-Polyfill for the New Relic PHP extension.
+# Polyfill for the New Relic PHP extension.
+
+Forked from [wizacha/new-relic-polyfill](https://github.com/wizacha/new-relic-polyfill-php) and adds new methods that are missing.
 
 [![Total Downloads](https://img.shields.io/packagist/dt/wizacha/new-relic-polyfill.svg?style=flat-square)](https://packagist.org/packages/wizacha/new-relic-polyfill)
 
